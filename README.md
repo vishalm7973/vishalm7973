@@ -1,23 +1,16 @@
 # 👋 Hey, I'm Vishal Maurya
 
-### `>_` Making Ideas Compile!
-
----
 
 ## 🚀 About Me
 
-I'm a **Backend Developer** who enjoys turning ideas into scalable,
-reliable, and production-ready systems.
+> **I build systems, solve problems, and occasionally create new bugs.**
 
-- 💻 Backend Developer with **2+ years of experience**
-- ⚙️ Building **microservices & production-grade APIs**
-- 🚀 Working with **Node.js, NestJS & TypeScript**
-- 📨 Building **event-driven & asynchronous systems**
-- ⚡ Working with **Redis for caching & performance**
-- 🗄️ Working with **PostgreSQL, MongoDB & MySQL**
-- ☁️ Exploring **AWS, Docker & Kubernetes**
-- 🧠 Passionate about **System Design, Scalability & Performance**
-- 🌱 Always learning. Always building.
+```text
+Backend       ████████████████████
+System Design ████████████████░░░░
+Learning      ███████████████████░
+Coffee        ████████████████████ ☕
+```
 
 ---
 
