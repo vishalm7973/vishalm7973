@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Vishal Maurya
 
-
-## 🚀 About Me
-
 > **I build systems, solve problems, and occasionally create new bugs.**
 
 ```text
