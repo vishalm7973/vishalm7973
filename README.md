@@ -13,6 +13,8 @@ Coffee        ████████████████████ ☕
 
 # ⚡ Tech Arsenal
 
+<div align="center">
+
 <table>
 <tr>
 
@@ -85,11 +87,14 @@ Coffee        ████████████████████ ☕
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-# 👨‍💻  What I Build
+# 👨‍💻 What I Build
 
 ```text
                          💡 IDEA
@@ -116,3 +121,4 @@ Coffee        ████████████████████ ☕
                             │
                             ▼
                        🚀 PRODUCTION
+```
