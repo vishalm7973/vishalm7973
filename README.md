@@ -8,7 +8,7 @@ Welcome to my GitHub profile! ❤️
 I'm Vishal Maurya, Backend Engineer with 2.5+ years of experience building production microservices using Node.js, NestJS, TypeScript, and RabbitMQ. Designs and ships REST APIs, asynchronous workflows, and data services across logistics automation, hiring infrastructure, and media delivery platforms. Owns backend systems end-to-end, from architecture and development through deployment, with hands-on experience in PostgreSQL, MongoDB, Redis, AWS S3, and Docker.
 
 📄 Download my [**Resume Here**](https://drive.google.com/file/d/1z0Rz7bEcbCQ9k9UDeDrEGH-uQ-3G5ely/view?usp=sharing) ⬇️  
-💼 Check out my [**Portfolio**]([https://vishalm7973.github.io/](https://vishalm7973.github.io/portfolio) 👤
+💼 Check out my [**Portfolio**](https://vishalm7973.github.io/portfolio) 👤
 
 ---
 
