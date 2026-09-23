@@ -95,6 +95,18 @@ I'm Vishal Maurya, Backend Engineer with 2.5+ years of experience building produ
 
 ---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/jaspreet-fullstack">
+<img src="https://streak-stats.demolab.com/?user=jaspreet-fullstack&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Jaspreet's GitHub Contribution Streak" />
+</a>
+
+</div>
+
+---
+
 # 👨‍💻 What I Build
 
 ```text
