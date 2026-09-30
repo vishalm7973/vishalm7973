@@ -100,8 +100,41 @@ I'm Vishal Maurya, Backend Engineer with 2.5+ years of experience building produ
 <div align="center">
 
 <a href="https://github.com/vishalm7973">
-<img src="https://streak-stats.demolab.com/?user=vishalm7973&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Jaspreet's GitHub Contribution Streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=vishalm7973&theme=github-dark-blue&hide_border=true&border_radius=10"
+  alt="Vishal Maurya's GitHub Contribution Streak"
+/>
 </a>
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/vishalm7973/">
+
+<img
+  src="https://leetcode-stats-fast.vercel.app/?username=vishalm7973&site=us&theme=forest&ext=heatmap&width=1000"
+  width="850"
+  alt="Vishal Maurya's LeetCode Stats"
+/>
+
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/vishalm7973/">
+
+<img
+  src="https://img.shields.io/badge/LeetCode-View%20Profile-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+  alt="View LeetCode Profile"
+/>
+
+</a>
+
 </div>
 
 ---
@@ -133,4 +166,3 @@ I'm Vishal Maurya, Backend Engineer with 2.5+ years of experience building produ
                             │
                             ▼
                        🚀 PRODUCTION
-```
